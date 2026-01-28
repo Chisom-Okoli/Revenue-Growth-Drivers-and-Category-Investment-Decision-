@@ -40,9 +40,9 @@ These metrics allow a **balanced assessment** of both revenue potential and inve
 
 | Category         | Avg Monthly Revenue |
 |-----------------|-------------------|
-| Furniture        | 15,124            |
-| Office Supplies  | 20,284            |
-| Technology       | 14,829            |
+| Furniture        | $15,124            |
+| Office Supplies  | $20,284            |
+| Technology       | $14,829            |
 
 2. **Average MoM Growth %** – Calculated using the MoM % column:  
 
@@ -96,9 +96,9 @@ These metrics allow a **balanced assessment** of both revenue potential and inve
 
 | Category         | Avg Monthly Revenue | Avg MoM Growth % | MoM Volatility | Trend       | Investment Decision |
 |-----------------|-------------------|-----------------|----------------|------------|-------------------|
-| Office Supplies  | 20,284            | 3%              | 17%            | Declining  | Invest            |
-| Furniture        | 15,124            | 4%              | 24%            | Declining  | Monitor           |
-| Technology       | 14,829            | 3%              | 24%            | Declining  | Do Not Invest     |
+| Office Supplies  | $20,284            | 3%              | 17%            | Declining  | Invest            |
+| Furniture        | $15,124            | 4%              | 24%            | Declining  | Monitor           |
+| Technology       | $14,829            | 3%              | 24%            | Declining  | Do Not Invest     |
 
 ---
 
